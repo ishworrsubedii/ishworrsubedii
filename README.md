@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishworrocks
-- 👀 I’m interested in web,software Developement and  video editing 
+- 👀i am interested in cybersecurity software development and graphic designing
 - 🌱 I’m currently learning Web Developement and java programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
