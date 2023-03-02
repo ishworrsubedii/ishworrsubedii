@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-<img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="500" height="550">
+<img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="500" height="500">
 
 🔭 Working on learning basic Python programming.<br>
 👯 Looking to collaborate on projects that teach AI and ML.<br>
