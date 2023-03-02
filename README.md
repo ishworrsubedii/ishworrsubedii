@@ -6,18 +6,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=ishworrsubedii&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 70%;">
-    <h2>💫 About Me:</h2>
-    <p>🔭 Working on: Learning Python programming.<br><br>👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br><br>🤝 Need help with: Learning advanced Python libraries.<br><br>🌱 Currently learning: Advanced Python programming.</p>
-  </div>
-  <div style="width: 30%; text-align: right;">
-    <img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" alt="Profile picture">
-  </div>
-</div>
+
 
 
 # 💫 About Me:
+<img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="300" height="300">
+
 🔭 Working on: Learning basic Python programming.<br><br>👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br><br>🤝 Need help with: Learning advanced Python libraries.<br><br>🌱 Currently learning: Advanced Python programming.
 
 
