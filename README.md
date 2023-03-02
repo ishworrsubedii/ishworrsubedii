@@ -5,6 +5,14 @@
 <h2 align="center">Hi 👋, I'm ishwor</h2>
 
 [![](https://visitcount.itsvg.in/api?id=ishworrsubedii&icon=1&color=12)](https://visitcount.itsvg.in)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>🔭 Working on: Learning Python programming.<br><br>👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br><br>🤝 Need help with: Learning advanced Python libraries.<br><br>🌱 Currently learning: Advanced Python programming.</p>
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" width="200">
+  </div>
+</div>
 
 # 💫 About Me:
 🔭 Working on: Learning basic Python programming.<br><br>👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br><br>🤝 Need help with: Learning advanced Python libraries.<br><br>🌱 Currently learning: Advanced Python programming.
