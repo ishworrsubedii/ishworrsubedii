@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">
+<h1  align="center">
   <img src="https://i.pinimg.com/564x/2d/d0/58/2dd058f0ffca18a8035b58ad986c6df7.jpg" alt="banner image" />
 </h1>
 
