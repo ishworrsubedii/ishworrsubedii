@@ -10,12 +10,12 @@
 
 
 # 💫 About Me:
-<img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="500" height="700">
+<img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="500" height="550">
 
-🔭 Working on: Learning basic Python programming.<br>
-👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br>
-🤝 Need help with: Learning advanced Python libraries.<br>
-🌱 Currently learning: Advanced Python programming.
+🔭 Working on learning basic Python programming.<br>
+👯 Looking to collaborate on projects that teach AI and ML.<br>
+🤝 Need help with learning advanced Python libraries.<br>
+🌱 Currently learning advanced Python programming.
 
 
 ## 🌐 Socials:
