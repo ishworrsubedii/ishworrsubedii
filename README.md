@@ -32,7 +32,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishworrsubedii&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=ishworrsubedii&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
