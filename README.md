@@ -4,7 +4,8 @@
 
 <h2 align="center">Hi 👋, I'm ishwor</h2>
 
-# 💫 About Me:
+<h3 align="center">
+  # 💫 About Me:
 🔭 Working on: Learning basic Python programming.<br><br>👯 Looking to collaborate on: Projects that teach AI and ML concepts using Python.<br><br>🤝 Need help with: Learning advanced Python libraries.<br><br>🌱 Currently learning: Advanced Python programming.
 
 [![](https://visitcount.itsvg.in/api?id=ishworrsubedii&icon=1&color=12)](https://visitcount.itsvg.in)
@@ -29,5 +30,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+  
+  
+ </h3>
+
 
 
