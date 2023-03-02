@@ -18,7 +18,7 @@
  
 # 📊 GitHub Stats:
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishworrsubedii&theme=react&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishworrsubedii&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishworrsubedii&theme=react&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishworrsubedii&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
