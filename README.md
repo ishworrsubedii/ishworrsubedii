@@ -12,10 +12,10 @@
 # 💫 About Me:
 <img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="400" height="400">
 
-🔭 Working on learning  Machine Learning.<br>
+<!-- 🔭 Working on learning  Machine Learning.<br> -->
 👯 Looking to collaborate on projects that teach AI and ML.<br>
-🤝 Need help with learning advanced Python libraries.<br>
-🌱 Currently learning advanced Python programming.
+🤝 Need help with learning Ml libraries.<br>
+🌱 Currently learning Machine Learning.
 
 
 ## 🌐 Socials:
