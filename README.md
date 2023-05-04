@@ -14,7 +14,7 @@
 
 <!-- 🔭 Working on learning  Machine Learning.<br> -->
 👯 Looking to collaborate on projects that teach AI and ML.<br>
-🤝 Need help with learning Ml libraries.<br>
+🤝 Need help with learning Ml Algo.<br>
 🌱 Currently learning Machine Learning.
 
 
