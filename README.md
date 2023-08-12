@@ -1,5 +1,4 @@
 <h1  align="center">
-  <img src="https://i.pinimg.com/564x/2d/d0/58/2dd058f0ffca18a8035b58ad986c6df7.jpg" alt="banner image" />
 </h1>
 
 <h2 align="center">Hi 👋, I'm ishwor</h2>
