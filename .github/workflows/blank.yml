@@ -70,6 +70,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
+          plugin_leetcode_user: ishworrsubedii
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
@@ -103,6 +104,37 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript
           plugin_code_load: 400
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kathmandu
+      - name: MBTI Personality profile
+        uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.plugin.16personalities.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_16personalities: yes
+            plugin_16personalities_url: ${{ secrets.https://www.16personalities.com/isfj-personality }}
+            plugin_16personalities_sections: personality, traits
+            plugin_16personalities_scores: no
+
 
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
