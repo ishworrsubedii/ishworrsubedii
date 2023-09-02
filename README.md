@@ -7,6 +7,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ishworrsubedii&icon=1&color=12)](https://visitcount.itsvg.in) -->
 
+### 💫 About Me:
 
 - 🔭 I’m currently working on **small machine learning projects**
 
@@ -21,7 +22,6 @@
 - 📫 How to reach me **ishworr.subedi@gmail.com**
 
 
-### 💫 About Me:
 <img src="https://i.pinimg.com/originals/b2/c1/f4/b2c1f4eb29f7c39ddafb035e41c2150b.png" align="right" width="400" height="400">
 
 
