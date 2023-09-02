@@ -7,10 +7,8 @@
 
 
 <!-- Metrics.base.svg -->
-<img align='right' src="https://media.giphy.com/media/3o7Zen3RCzrnhHnSkU/giphy.gif" alt="Metrics Base" width="300">
 
 <img align='center' src="/metrics.base.svg" alt="Metrics Base" width="600">
-<img align='left' src="https://giffiles.alphacoders.com/639/6398.gif" alt="Metrics Base" width="300">
 
 <!-- Metrics.plugin.activity.svg -->
 <img align="right" src="/metrics.plugin.activity.svg" alt="Metrics Activity" width="600">
