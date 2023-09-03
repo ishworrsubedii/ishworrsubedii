@@ -6,6 +6,8 @@
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ishworrsubedii&icon=1&color=12)](https://visitcount.itsvg.in) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishworrsubedii&label=Profile%20views&color=0e75b6&style=flat" alt="ishworrsubedii" /> </p>
+
 
 ### 💫 About Me:
 
@@ -73,6 +75,7 @@
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ishworrsubedii&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
