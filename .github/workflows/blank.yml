@@ -132,9 +132,7 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_16personalities: yes
-            plugin_16personalities_url: ${{ secrets.abb867e3
-
-}}
+            plugin_16personalities_url: ${{ secrets.abb867e3}}
             plugin_16personalities_sections: personality, traits
             plugin_16personalities_scores: no
       - name: Indepth analysis
