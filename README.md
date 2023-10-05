@@ -44,20 +44,21 @@
 
 
 <!-- Metrics.plugin.activity.svg -->
-<img align="right" src="/metrics.plugin.activity.svg" alt="Metrics Activity" width="600">
+<!--
+    These are the metrics images:
+    
+    1. Metrics Activity
+    <img align="right" src="/metrics.plugin.activity.svg" alt="Metrics Activity" width="600">
 
+    2. Metrics LeetCode
+    <img align="center" width="700" src="/metrics.plugin.leetcode.svg" alt="Metrics LeetCode">
 
+    3. Metrics Reactions
+    <img align="right" width="650" src="/metrics.plugin.reactions.svg" alt="Metrics Reactions">
 
-<!-- Metrics.plugin.leetcode.svg -->
-
-<img align="center" width="700" src="/metrics.plugin.leetcode.svg" alt="Metrics LeetCode" >
-
-
-<!-- Metrics.plugin.reactions.svg -->
-<img align="right" width="650" src="/metrics.plugin.reactions.svg" alt="Metrics Reactions ">
-
-<!-- Metrics.plugin.stars.svg -->
-<img  align="center" width="700" src="/metrics.plugin.stars.svg" alt="Metrics Stars" >
+    4. Metrics Stars
+    <img align="center" width="700" src="/metrics.plugin.stars.svg" alt="Metrics Stars">
+-->
 
 
 
