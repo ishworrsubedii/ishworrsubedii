@@ -4,12 +4,11 @@
 <img src="https://github.com/ishworrsubedii/ishworrsubedii/assets/45705878/399390f7-5135-4d63-9d6e-2694a9718c43" alt="Banner 1">
 <h1 align="center">Hi, I'm Ishwor Subedi! 👋</h1>
 
+**I am currently working as a machine learning engineer at a startup. I am passionate about solving problems using the latest advancements in AI/ML. I specialize in building computer vision and large language model applications to address real-world challenges.**
+
 <div style="text-align:center;">
     <img src="/metrics.base.svg" alt="Metrics Base" width="600">
 </div>
-
-
-
 
 
 
@@ -20,17 +19,18 @@
 ### 💫 About Me:
 
 
-- 🔭 Currently immersed in diverse machine learning projects.
 
-- 🌱 Dedicated to advancing expertise in Machine Learning and Data Science.
+- 🔭Currently immersed in diverse machine learning projects aimed at solving real-world problems.
 
-- 👯 Actively seeking collaborations focused on machine learning and data science initiatives.
+- 🌱 Dedicated to advancing expertise in Generative AI and NLP.
 
-- 💼 Explore my professional profile: [Portfolio](https://portfolioofishwor.super.site/).
+- 👯 Actively seeking collaborations focused on AI, machine learning, and innovative projects
 
-- 💬 Open for discussions on all aspects of AI and ML!
+- 💼 Explore my professional profile here: [Portfolio](https://ishwor-subedi.com.np/).
 
-- 📫 Reach me via email: ishworr.subedi@gmail.com.
+- 💬  I’m open to discussions on all aspects of AI and ML!
+
+- 📫 Feel free to reach me via email at: **ishworr.subedi@gmail.com**
 
 
 
@@ -43,7 +43,6 @@
 <p align="left">    
 <a href="https://linkedin.com/in/ishworrsubedii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishworrsubedii" height="30" width="40" /></a>
 <a href="https://kaggle.com/ishworsubedii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishworsubedii" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_ishwor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ishwor" height="30" width="40" /></a>
 <a href="https://www.behance.net/ishworsubedi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ishworsubedi2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishworrsubedii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishworrsubedii" height="30" width="40" /></a>
 </p>
@@ -81,10 +80,11 @@
  
 ### 📊 GitHub Stats:
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ishworrsubedii&theme=react&hide_border=false&include_all_commits=false&count_private=false" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishworrsubedii&theme=react&hide_border=false" /><br/>
- 
+<!--
+    <img src="https://github-readme-stats.vercel.app/api?username=ishworrsubedii&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
+-->
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishworrsubedii&theme=react&hide_border=false" /><br/>
 
 </div>
  <br>
@@ -93,11 +93,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ishworrsubedii&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
  <br>
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img  align="center" width="750" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics IsoCalendar FullYear">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
