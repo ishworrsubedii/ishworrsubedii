@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 23.1mb of code in 153 edited files across 158 commits</small>
+                <small>estimation from 26mb of code in 159 edited files across 162 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.0263929618768" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.0263929618768" y="0" width="14.973607038123168" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.50726116678067" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.50726116678067" y="0" width="0.4927388332193404" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>552 lines</div>
-                                <div>79.1 kB</div>
+                                <div>1.99k lines</div>
+                                <div>2.48 MB</div>
                             </small>
                         </div>
                     </section>
