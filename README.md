@@ -29,7 +29,7 @@
 
 ```python
 class IshworSubedi(MLEngineer):
-    role      = "Machine Learning Engineer @ startup"
+    role      = "Machine Learning Engineer @oxura.dev"
     based_in  = "Kathmandu, Nepal (UTC+05:45)"
     builds    = ["computer vision pipelines", "LLM & agentic applications"]
     stack     = ["PyTorch", "OpenCV", "FastAPI", "Docker", "PostgreSQL"]
